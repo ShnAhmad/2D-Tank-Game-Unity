@@ -1,4 +1,4 @@
-# Tank-Game-2D
+# 2D-Tank-Game-Unity
 
 Welcome to my 2D Tank Game GitHub repository!
 
